@@ -1,0 +1,6 @@
+RTTintervalanalysis
+[5.0, 5.28125]
+
+Average RTTintervalanalysis is 5.0
+File size is 14 bytes
+Loss probability is 2.0000000000000018%

@@ -1,0 +1,6 @@
+devRTTanalysis
+[1.09375, 1.12109375]
+
+Average devRTTanalysis is 1.09375
+File size is 14 bytes
+Loss probability is 2.0000000000000018%
